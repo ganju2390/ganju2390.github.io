@@ -11,6 +11,11 @@ I am Jiaming Guo, a senior undergraduate student majoring in Mechanical Engineer
 
 My primary research interests currently focus on underwater robotic system design and underwater manipulator operation (although I am just beginning my journey as a pre-doctoral student). I am always open to discussions and collaborations with like-minded peers.
 
+
+If you want learn more about me
+======
+My Email:gan_ju@sjtu.edu.cn
+
 <!-- 
 A data-driven personal website
 ======
