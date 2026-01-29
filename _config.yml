@@ -17,12 +17,13 @@
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
                                          # 可用的主题选项有 "default"、"air"、"sunrise"、"mint"、"dirt" 和 "contrast"
-title                    : "Your Name / Site Title"
+title                    : "Jiaming Guo / Site Title"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Jiaming Guo"                     # Update this with your name
+                                                       # 用您的名字更新此字段
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
                                                                                # 用网站的通用描述来更新此字段，如果页面没有覆盖此字段则使用默认值
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://ganju2390.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # 您的网站的基本主机名和协议，例如 "https://[您的GitHub用户名].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
                                                            # 或者如果您在 Github 上已有其他页面，请使用 "https://[您的GitHub用户名].github.io/[您的仓库名]"
@@ -39,15 +40,15 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   # 个人信息
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "gjm.png"
+  name             : "Jiaming Guo"
   pronouns         : # example: "she/her"
                      # 例如："she/her"（她/她）  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "underwater robotics"
+  location         : "Shanghai, China"
+  employer         : "Shanghai Jiao Tong University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "gan_ju@sjtu.edu.cn" 
 
   # Academic websites
   # 学术网站
